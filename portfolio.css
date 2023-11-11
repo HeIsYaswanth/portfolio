@@ -279,7 +279,7 @@ so making none all hovering effects.*/
     margin-left: 20px;
     color: var(--purple);
     font-size: 1rem;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Gill Sans, sans-serif;
     cursor: pointer;
   }
 
@@ -305,10 +305,10 @@ so making none all hovering effects.*/
   }
 
   #emailme p {
+    font-family: Gill Sans, sans-serif;
     max-width: 280px;
     text-align: start;
     font-size: 1rem;
-    font-family: cursive;
   }
   /*Removed email box*/
   #email {
@@ -344,12 +344,19 @@ so making none all hovering effects.*/
 
   #frontend {
     color: var(--yellow);
+    font-family: Gill Sans, sans-serif;
     font-size: 2rem;
     max-width: 300px;
     margin-bottom: 0px;
     margin-right: 30px;
     margin-left: 10px;
     text-align: center;
+  }
+  #connect #html {
+    color: var(--yellow);
+    font-family: Gill Sans, sans-serif;
+    font-style: italic;
+    font-weight: 300;
   }
 
   #yash {
